@@ -1,0 +1,86 @@
+
+/* font */
+.fira-sans {
+    font-family: "Work Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+  }
+
+body {
+    background-color: rgb(245, 245, 245);
+}
+
+.optional-things{
+    font-weight: 600;
+    font-size: 32px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-btn{
+    font-size: 18px;
+    padding: 15px 30px;
+    border-radius: 8px;
+    border-color: #006A50;
+    color: #006A50;
+}
+
+/* banner style */
+
+.banner{
+    background-color: #C6E4D6;
+    height: 560px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 160px;
+    border-radius: 24px;
+    gap: 64px;
+}
+
+.banner-btn{
+    background-color: #006A50;
+    border-radius: 8px;
+    padding: 8px;
+    border: none;
+    color: #FFFFFF;
+    font-size: 18px;
+    padding: 17px 34px;
+}
+
+.banner-des {
+    padding: 117px;
+}
+
+.banner-des p {
+    font-size: 24px;
+    color: #0E0E0E;
+}
+
+.banner-des h2 {
+    font-size: 56px;
+}
+
+.banner-img{
+    margin: 80px 60px 80px 0px;
+}
+
+/* pillars style */
+
+.pillars{
+   margin: 80px 160px;
+}
+
+.pillars-class{
+    display: flex;
+    gap: 24px;
+}
+
+.pillar-card{
+    border-radius: 16px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    background-color: rgb(255, 255, 255);
+    padding: 24px;
+}             
