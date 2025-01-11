@@ -187,6 +187,7 @@ body {
     padding: 48px 24px;
     background-image: url("../assets/quote-bg.png");
     background-repeat: no-repeat;
+    background-position: 25px 35px;
 }
 
 .y-tv{
